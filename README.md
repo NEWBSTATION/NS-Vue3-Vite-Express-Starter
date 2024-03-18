@@ -1,6 +1,6 @@
 # ns-vue3-vite-express-starter
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 and ExpressJS in Vite.
 
 ## Recommended IDE Setup
 
@@ -10,15 +10,15 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Create an Environment '/.env'
+
+Create a .env file in the root of the project. Use .env-sample for reference.
+
 ## Project Setup
 
 ```sh
 npm install
 ```
-
-## Create an Environment '/.env'
-
-Create a .env file in the root of the project. Use .env-sample for reference.
 
 ### Compile and Hot-Reload for Server Development
 
